@@ -9,7 +9,7 @@ Change Tracking is one way version control helps maintain project integrity as e
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 ANSWER
-Sign in to GitHub
+1) Sign in to GitHub
 In the upper-right corner of the page, click the + icon and select New Repository.
 Enter the repository detail
 Initialize the Repository
