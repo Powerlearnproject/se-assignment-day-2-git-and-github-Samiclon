@@ -91,25 +91,64 @@ iii) Community Feedback
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 ANSWER
 
-Steps
+**1.** Steps
 
-Create a New Repository
+i) Create a New Repository
 
-Initialize a Git Repository
+ii) Initialize a Git Repository
 
-Add Files to the Repository
+iii) Add Files to the Repository
 
-Commit the Changes
+iv) Commit the Changes
 
-Add the remote Repository
+v) Add the remote Repository
 
-Push the changes to GitHub.
+v) Push the changes to GitHub.
+
+**2.** Commits are snapshots of projects' current state, capturing all changes made since the last commit.
+
+**3.** Commits are essential for tracking changes and managing the development of projects over time. Every commit includes a message that describes what changes were made and why. 
+
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 ANSWER:  
 
+**1.** A branch is created to work on new features, fix bugs, or experiment with ideas. 
+
+**2.** Branching allows multiple people to work on different parts of the project simultaneously, and it keeps the main project stable and clean.
+
+**3.**  The process includes:
+i) Navigate to the project directory using the terminal
+
+ii) Use the command, 'git checkout -b new-branch-name'
+
+iii) Make and commit changes
+
+iv) Push the branch to GitHub
+
+v) Create a pull request
+
+vi) Merge the branch after review
+
+vii) Delete the branch
+
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+**ANSWER**
+
+**1.** Pull Request is essential for documentation as it serves as a record of what changes were made and why, which is useful for future reference.
+
+**2.** Once a Pull Request is opened, team members can review the changes, provide feedback, and suggest improvements before the code is merged.
+
+**3.** Steps Involved in Creating and Merging a Pull Request.
+
+i) Push the branch
+
+ii) Open a Pull Request
+
+iii) Fill out the Pull Request Form 
+
+iv) Submit the Pull Request
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
