@@ -29,11 +29,11 @@ vi) Clone the Repository. i.e click the code button and copy the URL
 
 **2.** The decisions include:
 
-Choose a name for the Repository
+i) Choose a name for the Repository
 
-Decide whether the repository is 'Public' or 'Private'
+ii) Decide whether the repository is 'Public' or 'Private'
 
-Initialize with README
+iii) Initialize with README
 
 
 
@@ -41,51 +41,52 @@ Initialize with README
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 ANSWER
 
-It provides an overview and serves as the first point of contact for anyone interacting with the project.
+**1.** It provides an overview and serves as the first point of contact for anyone interacting with the project.
 
-The following should be included in a README file namely:
+**2.** The following should be included in a README file namely:
 
-Title
+i) Title
 
-Description
+ii) Description
 
-Table of Contents
+iii) Table of Contents
 
-Instruction.
+iv) Instruction.
 
-It reflects the goals and objectives of the project.
+**3.** It reflects the goals and objectives of the project.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
 ANSWER
-Public repositories are better for broad collaboration, while Private repositories are suited for controlled, smaller team environments.
+**1.** Public repositories are better for broad collaboration, while Private repositories are suited for controlled, smaller team environments.
 
-ADVANTAGES OF PUBLIC REPOSITORIES
+**2.** ADVANTAGES OF PUBLIC REPOSITORIES
 
-Wide collaboration
+i) Wide Collaboration
 
-Visibility
+ii) Visibility
 
-Community feedback
+iii) Community Feedback
 
-DISADVANTAGES OF PUBLIC REPOSITORIES
+**3.** DISADVANTAGES OF PUBLIC REPOSITORIES
  
- Security risks
- Quality control
-
- ADVANTAGES OF PRIVATE REPOSITORIES
-
- Controlled access
+ i) Security risks
  
- Security
+ ii) Quality control
+
+ **4.** ADVANTAGES OF PRIVATE REPOSITORIES
+
+ i) Controlled access
  
- Focused collaboration
+ ii) Security
+ 
+ iii) Focused collaboration
 
- DISADVANTAGES OF PRIVATE REPOSITORIES
+ **5.** DISADVANTAGES OF PRIVATE REPOSITORIES
 
- Limited exposure
+ i) Limited exposure
 
- Cost implication
+ ii) Cost implication
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 ANSWER
