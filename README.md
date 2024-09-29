@@ -13,9 +13,7 @@
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 **ANSWER**
 
-**1.** 
-
-i) Sign in to GitHub
+**1i.) Sign in to GitHub
    
 ii) In the upper-right corner of the page, click the + icon and select New Repository.
 
@@ -150,7 +148,25 @@ iii) Fill out the Pull Request Form
 
 iv) Submit the Pull Request
 
+To Merge a Pull Request, resolve conflicts then merge into the main branch by clicking the Merge pull request button on GitHub.
+
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+
+**ANSWER**
+
+**1.** Forking a repository is creating a personal copy of someone else's project to make changes, experiment, or contribute back to the original project.
+
+**2.** 
+
+Forking is to create a copy on GitHub for independent development and contributions.
+
+Cloning is to create a local copy for development on the computer.
+
+**3.** 
+
+i) Collaboration: Forking facilitates collaboration among developers who may not have
+
+ii) Creating Independent Projects: A developer might want to create a new project based on an existing one.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
