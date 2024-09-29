@@ -5,21 +5,31 @@
 ANSWER
 
 Version control is a system that helps manage changes to software code over time.e.g tracking changes
+
 Ease of use: GitHub provides an intuitive interface that makes it easy for developers to manage their code repositories.
+
 Change Tracking is one way version control helps maintain project integrity as every change made to the code is recorded.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 ANSWER
 1) Sign in to GitHub
-In the upper-right corner of the page, click the + icon and select New Repository.
-Enter the repository detail
-Initialize the Repository
-then create Repository
-Clone the Repository
+   
+2) In the upper-right corner of the page, click the + icon and select New Repository.
+
+3) Enter the repository detail
+
+4) Initialize the Repository
+
+5) then create Repository
+
+6) Clone the Repository
 
 The decisions include:
+
 Choose a name for the Repository
+
 Decide whether the repository is 'Public' or 'Private'
+
 Initialize with README
 
 
