@@ -2,28 +2,32 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16128462&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-_ANSWER_
-Version control is a system that helps manage changes to software code over time. e.g tracking changes
+**ANSWER**
 
-Ease of use: GitHub provides an intuitive interface that makes it easy for developers to manage their code repositories.
+1. Version control is a system that helps manage changes to software code over time. e.g tracking changes
 
-Change Tracking is one way version control helps maintain project integrity as every change made to the code is recorded.
+2. Ease of use: GitHub provides an intuitive interface that makes it easy for developers to manage their code repositories.
+
+3. Change Tracking is one way version control helps maintain project integrity as every change made to the code is recorded.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-ANSWER
-1) Sign in to GitHub
+**ANSWER**
+
+**1.** 
+
+i) Sign in to GitHub
    
-2) In the upper-right corner of the page, click the + icon and select New Repository.
+ii) In the upper-right corner of the page, click the + icon and select New Repository.
 
-3) Enter the repository detail
+ii) Enter the repository detail
 
-4) Initialize the Repository
+iv) Initialize the Repository
 
-5) then create a Repository
+v) Click the create repository button
 
-6) Clone the Repository
+vi) Clone the Repository. i.e click the code button and copy the URL
 
-The decisions include:
+**2.** The decisions include:
 
 Choose a name for the Repository
 
